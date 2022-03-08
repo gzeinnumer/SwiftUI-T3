@@ -1,4 +1,4 @@
-# SwiftUI-T4
+# SwiftUI-T3
 
 [Source](3. https://designcode.io/swiftui-handbook-import-images-to-assets-catalog)
 
